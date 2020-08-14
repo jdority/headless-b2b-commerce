@@ -46,7 +46,7 @@ export default class ProductList extends Component {
             <React.Fragment>
                 <div className="py-5">
                     <div className="container">
-                        <Title name="energy" title="products"></Title>
+                        <Title name="cirrus" title="products"></Title>
                         <ClipLoader
                             css={override}
                             size={150}
